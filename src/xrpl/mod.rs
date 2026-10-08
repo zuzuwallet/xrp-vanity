@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! XRPL classic-address and Ed25519 seed codec.
 //!
 //! Base58Check here is separate from the `bs58` encoder inside `xrpl-rust`.

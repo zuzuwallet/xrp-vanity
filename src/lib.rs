@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Offline XRPL Ed25519 vanity classic-address generator.
 //!
 //! This crate does not use `unsafe`. Cryptography comes from maintained

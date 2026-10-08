@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Classic-address prefix checks and a search-cost estimate.
 //!
 //! A classic address is Base58Check(`0x00 || account_id || checksum`).

@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Checks that agree before a wallet is treated as valid.
 //!
 //! `xrpl-rust` also uses `ed25519-dalek`, so a bug in that library can make

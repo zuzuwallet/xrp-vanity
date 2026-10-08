@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Ed25519 seed codec (`sEd...`).
 //!
 //! Version bytes `[0x01, 0xE1, 0x4B]` come from XRPLF `ripple-address-codec`

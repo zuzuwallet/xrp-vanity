@@ -1,3 +1,8 @@
+# Copyright (c) 2026 ZuZu Wallet
+# https://ZuZuWallet.com
+# Support@ZuZuWallet.com
+# SPDX-License-Identifier: MIT OR Apache-2.0
+
 # License and source policy for `cargo deny check`.
 # The allow-list is the set of SPDX expressions present in Cargo.lock
 # when this file was added. A new expression fails the license check.

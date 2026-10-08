@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Address derivation through `xrpl-rust`.
 //!
 //! This module does not call the Base58 or key code in `crate::xrpl`.

@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! Parallel vanity search.
 //!
 //! Each attempt draws 16 bytes from the operating-system CSPRNG. Workers do

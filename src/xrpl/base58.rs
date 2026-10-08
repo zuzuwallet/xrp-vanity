@@ -1,3 +1,8 @@
+// Copyright (c) 2026 ZuZu Wallet
+// https://ZuZuWallet.com
+// Support@ZuZuWallet.com
+// SPDX-License-Identifier: MIT OR Apache-2.0
+
 //! XRPL Base58 and Base58Check.
 //!
 //! Alphabet source: <https://xrpl.org/docs/references/protocol/data-types/base58-encodings>
